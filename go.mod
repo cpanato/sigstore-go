@@ -13,9 +13,9 @@ require (
 	github.com/letsencrypt/boulder v0.0.0-20221109233200-85aa52084eaf // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
 	github.com/titanous/rocacheck v0.0.0-20171023193734-afe73141d399 // indirect
-	golang.org/x/net v0.7.0 // indirect
-	golang.org/x/term v0.5.0 // indirect
-	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/net v0.17.0 // indirect
+	golang.org/x/term v0.13.0 // indirect
+	golang.org/x/text v0.13.0 // indirect
 	google.golang.org/genproto v0.0.0-20230209215440-0dfe4f8abfcc // indirect
 	google.golang.org/grpc v1.53.0 // indirect
 	google.golang.org/protobuf v1.28.1 // indirect
@@ -27,6 +27,6 @@ require (
 	github.com/secure-systems-lab/go-securesystemslib v0.5.0 // indirect
 	github.com/sigstore/protobuf-specs v0.0.0-20221123204033-dfe069610b3b
 	github.com/sigstore/sigstore v1.6.0
-	golang.org/x/crypto v0.6.0 // indirect
-	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/crypto v0.14.0 // indirect
+	golang.org/x/sys v0.13.0 // indirect
 )
